@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-tjn",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Tjene custom template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kedanielwu/create-react-app.git",
+    "directory": "packages/cra-template-tjn"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/kedanielwu/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
